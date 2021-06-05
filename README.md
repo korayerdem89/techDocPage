@@ -1,6 +1,6 @@
 # techDocPage
 
 This is a static webpage.
-HTML and CSS
+I made the webpage by using HTML and pure CSS.
 CSS Grid for page layout
 Media queries for responsiveness
